@@ -1,5 +1,5 @@
 # EventReminder 
-## Event reminder using Power Automation
+### Event reminder using Power Automation
 
 ## Project Summary
 I am sending event reminders via email using Power Automation. I have stored my event details in an Excel document and saved them on one drive. 
