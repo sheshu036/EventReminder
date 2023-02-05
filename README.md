@@ -14,19 +14,20 @@ Click on the "+ Create" option. It will show multiple options; select "Scheduled
 
 ### Step 2
 Mention your flow name and click on Create.
-
+![Step 2](https://github.com/sheshu036/EventReminder/blob/main/Steps/Step%202.jpg)
 ### Step 3
 Add “Recurrence Trigger” and set Interval, Frequency values.
-
+![Step 3](https://github.com/sheshu036/EventReminder/blob/main/Steps/Step%203.jpg)
 ### Step 4
 I have created excel and saved it in one drive.
 
+![Step 4](https://github.com/sheshu036/EventReminder/blob/main/Steps/Step%204.jpg)
 ### Step 5 
 Select Excel document from one drive location and select the table. 
-
+![Step 5](https://github.com/sheshu036/EventReminder/blob/main/Steps/Step%205.jpg)
 ### Step 6
 Add “Apply to each” control and select excel values as an input for this.
-
+![Step 6](https://github.com/sheshu036/EventReminder/blob/main/Steps/Step%206%2C7%2C8.jpg)
 ### Step 7
 To select record based on event date then we have to add “Condition” control. Where we have to add two OR conditions.
 
